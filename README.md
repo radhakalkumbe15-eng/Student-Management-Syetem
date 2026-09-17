@@ -22,7 +22,7 @@ Create-->Add Student Read-->View/Serach Student Update-->Update student Delete--
 Learning Outcomes
 through this project,I practiced: *Java OOP *JDBC *MySQL *CRUD Operations *Exception handling *Input Validation *Git and GitHub
 
-##Application screenshot ![Student Management System] (Rename Screenshot 2026-09-18 023752.png to student-management-system.png)
+##Application screenshot ![Student Management System]  student-management-system.png
 
 
 Author
