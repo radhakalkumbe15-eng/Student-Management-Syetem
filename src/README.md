@@ -65,7 +65,7 @@ through this project,I practiced:
 
 ##Application screenshot
 ![Student Management System]
-src/student-management-system.png
+(./src/student-management-system.png)
 
 
 ## Author
