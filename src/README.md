@@ -63,6 +63,10 @@ through this project,I practiced:
 *Input Validation
 *Git and GitHub
 
+##Application screenshot
+![Student Management System]
+(src/student-management-system.png)
+
 ## Author
 Radha Sukhdeo Kalkumbe
 
