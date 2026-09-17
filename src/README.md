@@ -1,14 +1,15 @@
 # Student Management System
-A Java-based Student Management System connected with MySQL.
+A console-based Student Management System built using Java,MySQL,and JDBC.
+The project allows user to manage student records through a simple menu-driven application.
 
 # Features
--Add Student
+-Add a new Student
 -View All Students
 -Search Student by ID
--Update Student
+-Update Student details
 -Delete Student
--Input Validation
--MySQL database connectivity
+-store student data in MySQL database
+-Input Validation for student details
 
 # Technologies Used
 -Java
@@ -18,33 +19,51 @@ A Java-based Student Management System connected with MySQL.
 -Git and GitHub
 
 # Database
-Database Name:
-student_management
-
-Table Name:
-students
+The application uses MySQL to store student information such as:
+*Student ID
+*Name
+*Email
+*Phone
+*Course
+*Semester
+*Marks
 
 ## Project Structure
 StudentManagement/
-|
-|__Main.java
-|__Student.java
-|__studentDAO.java
-|__DBConnection.java
-|__README.md
+|__src/
+|  |__Main.java
+|  |__Student.java
+|  |__studentDAO.java
+|  |__DBConnection.java
+|  |__.gitignore
+|____README.md
 
 ## How to Run
-1.Install Java and MySQL.
-2.Create the 'student_management' database.
-3.Create the 'students' table.
-4.Add MySQL connector/J.
-5.Update the MySQL password in 'DBConnection.java'.
-6.Run 'Main.java'.
+1.Install Java JDK.
+2.Install MySQL.
+3.Create the required database and student table.
+4.Update the database username and password inDBConnection.java.
+5.Add MySQL connector/J JDBC driver.
+6.Complie and run Main.java.
+7.Use the menu displayed in the terminal to manage student records.
 
 ## CRUD Operations
 Create-->Add Student
 Read-->View/Serach Student
 Update-->Update student
 Delete-->Delete student
+
+## Learning Outcomes
+through this project,I practiced:
+*Java OOP
+*JDBC
+*MySQL
+*CRUD Operations
+*Exception handling
+*Input Validation
+*Git and GitHub
+
+## Author
+Radha Sukhdeo Kalkumbe
 
 
