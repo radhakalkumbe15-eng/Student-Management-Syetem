@@ -64,8 +64,8 @@ through this project,I practiced:
 *Git and GitHub
 
 ##Application screenshot
-![Student Management System]
-(./src/student-management-system.png)
+![Student Management System](./src/
+student-management-system.png)
 
 
 ## Author
