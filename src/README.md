@@ -65,8 +65,8 @@ through this project,I practiced:
 
 ##Application screenshot
 ![Student Management System]
-(src/Rename Screenshot 2026-09-18 023752.png to student-management-system.png
-)
+src/student-management-system.png
+
 
 ## Author
 Radha Sukhdeo Kalkumbe
